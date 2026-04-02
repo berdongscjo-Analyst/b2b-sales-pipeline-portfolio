@@ -1,0 +1,9 @@
+
+# Bronze Layer — Raw Tables
+## Tables Loaded from GCP Cloud Storage
+| Table | Source File | Rows | Description |
+|-------|------------|------|-------------|
+| sales_pipeline | sales_pipeline.csv | 8,800 | One row per sales opportunity |
+| accounts | accounts.csv | 85 | Client company details |
+| products | products.csv | 7 | Product catalog |
+| sales_teams | sales_teams.csv | 35 | Sales agent and manager info |
